@@ -12,5 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-BOARD_NO_PAGE_FLIPPING := false
-BOARD_NO_32BPP := false
+#BOARD_NO_PAGE_FLIPPING := false
+#BOARD_NO_32BPP := false
