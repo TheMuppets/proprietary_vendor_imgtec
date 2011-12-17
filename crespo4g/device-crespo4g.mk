@@ -14,7 +14,7 @@
 
 LOCAL_PATH := vendor/imgtec/crespo4g
 
-# Imgtec blob(s) necessary for Crespo hardware
+# Imgtec blobs necessary for Nexus S hardware
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     $(LOCAL_PATH)/proprietary/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
