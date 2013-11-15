@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Imgtec blob(s) necessary for Toro hardware
+# Imgtec blob(s) necessary for ToroPlus hardware
 PRODUCT_PACKAGES := \
     pvrsrvctl \
     libEGL_POWERVR_SGX540_120 \
